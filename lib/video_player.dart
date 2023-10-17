@@ -34,7 +34,6 @@ VideoPlayerPlatform get _videoPlayerPlatform {
 class CustomVideoClass {
   String name = 'My name is Custom Class';
   var cl = CustomClass();
- 
 }
 
 /// The duration, current position, buffering state, error state and settings
