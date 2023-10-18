@@ -147,7 +147,7 @@
     },
     {
       "name": "video_player_android",
-      "rootUri": "file:///C:/Users/krish/AppData/Local/Pub/Cache/git/flutter_video_player_android-98ea6332750fb59e2b3256edba6068fd3376ea2e/",
+      "rootUri": "file:///C:/Users/krish/AppData/Local/Pub/Cache/git/flutter_video_player_android-71efe0aca26d3b727e303ca367f58b51d50a1caa/",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -182,7 +182,7 @@
       "languageVersion": "3.1"
     }
   ],
-  "generated": "2023-10-18T06:34:44.102656Z",
+  "generated": "2023-10-18T06:43:31.856293Z",
   "generator": "pub",
   "generatorVersion": "3.1.3"
 }
