@@ -535,6 +535,10 @@ class VideoPlayerController extends ValueNotifier<VideoPlayerValue> {
     await _applyLooping();
   }
 
+  Future<void> krishnapal(String secretKey) async {
+    await _videoPlayerPlatform.krishnapal(secretKey);
+  }
+
   /// Pauses the video.
   Future<void> pause() async {
     value = value.copyWith(isPlaying: false);
