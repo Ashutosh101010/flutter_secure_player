@@ -181,7 +181,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: f77428f3218e1c7ac8ee527c122cdeb3553e39a4
+      resolved-ref: e4fac13889bc6b4831072e4c1ba28769e4b8a978
       url: "https://github.com/Ashutosh101010/flutter_video_player_android.git"
     source: git
     version: "2.4.10"
