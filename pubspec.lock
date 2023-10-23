@@ -67,11 +67,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_web_plugins:
-    dependency: transitive
-    description: flutter
-    source: sdk
-    version: "0.0.0"
   html:
     dependency: "direct main"
     description:
@@ -186,34 +181,19 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: d13ae283fe9cc928acf46dbe251e9a9cf22ae66f
+      resolved-ref: a411f21430f3ff154567d2123582fc75b473fde3
       url: "https://github.com/Ashutosh101010/flutter_video_player_android.git"
     source: git
     version: "2.4.10"
-  video_player_avfoundation:
-    dependency: "direct main"
-    description:
-      name: video_player_avfoundation
-      sha256: "6387c2de77763b45104256b3b00b660089be4f909ded8631457dc11bf635e38f"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.5.0"
   video_player_platform_interface:
     dependency: "direct main"
     description:
-      name: video_player_platform_interface
-      sha256: be72301bf2c0150ab35a8c34d66e5a99de525f6de1e8d27c0672b836fe48f73a
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: e3620b5495e87934458ce27475bc2342f5de834d
+      url: "https://github.com/Ashutosh101010/flutter_secure_player_platform_interface.git"
+    source: git
     version: "6.2.1"
-  video_player_web:
-    dependency: "direct main"
-    description:
-      name: video_player_web
-      sha256: "2dd24f7ba46bfb5d070e9c795001db95e0ca5f2a3d025e98f287c10c9f0fd62f"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.1.1"
   web:
     dependency: transitive
     description:

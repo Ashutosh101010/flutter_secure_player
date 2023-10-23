@@ -56,12 +56,6 @@
       "languageVersion": "3.0"
     },
     {
-      "name": "flutter_web_plugins",
-      "rootUri": "file:///C:/src/flutter/packages/flutter_web_plugins",
-      "packageUri": "lib/",
-      "languageVersion": "3.0"
-    },
-    {
       "name": "html",
       "rootUri": "file:///C:/Users/krish/AppData/Local/Pub/Cache/hosted/pub.dev/html-0.15.4",
       "packageUri": "lib/",
@@ -147,27 +141,15 @@
     },
     {
       "name": "video_player_android",
-      "rootUri": "file:///C:/Users/krish/AppData/Local/Pub/Cache/git/flutter_video_player_android-d13ae283fe9cc928acf46dbe251e9a9cf22ae66f/",
+      "rootUri": "file:///C:/Users/krish/AppData/Local/Pub/Cache/git/flutter_video_player_android-a411f21430f3ff154567d2123582fc75b473fde3/",
       "packageUri": "lib/",
       "languageVersion": "2.19"
-    },
-    {
-      "name": "video_player_avfoundation",
-      "rootUri": "file:///C:/Users/krish/AppData/Local/Pub/Cache/hosted/pub.dev/video_player_avfoundation-2.5.0",
-      "packageUri": "lib/",
-      "languageVersion": "3.1"
     },
     {
       "name": "video_player_platform_interface",
-      "rootUri": "file:///C:/Users/krish/AppData/Local/Pub/Cache/hosted/pub.dev/video_player_platform_interface-6.2.1",
+      "rootUri": "file:///C:/Users/krish/AppData/Local/Pub/Cache/git/flutter_secure_player_platform_interface-e3620b5495e87934458ce27475bc2342f5de834d/",
       "packageUri": "lib/",
       "languageVersion": "2.19"
-    },
-    {
-      "name": "video_player_web",
-      "rootUri": "file:///C:/Users/krish/AppData/Local/Pub/Cache/hosted/pub.dev/video_player_web-2.1.1",
-      "packageUri": "lib/",
-      "languageVersion": "3.1"
     },
     {
       "name": "web",
@@ -182,7 +164,7 @@
       "languageVersion": "3.1"
     }
   ],
-  "generated": "2023-10-23T12:55:57.335852Z",
+  "generated": "2023-10-23T13:18:03.435041Z",
   "generator": "pub",
   "generatorVersion": "3.1.4"
 }
