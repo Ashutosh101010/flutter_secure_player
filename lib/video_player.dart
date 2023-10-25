@@ -31,11 +31,6 @@ VideoPlayerPlatform get _videoPlayerPlatform {
   return currentInstance;
 }
 
-class CustomVideoClass {
-  String name = 'My name is Custom Class';
-  var cl = CustomClass();
-}
-
 /// The duration, current position, buffering state, error state and settings
 /// of a [VideoPlayerController].
 @immutable
@@ -535,8 +530,8 @@ class VideoPlayerController extends ValueNotifier<VideoPlayerValue> {
     await _applyLooping();
   }
 
-  Future<void> krishnapal(String secretKey) async {
-    await _videoPlayerPlatform.krishnapal(secretKey);
+  Future<void> setSecretKey(String secretKey) async {
+    await _videoPlayerPlatform.setSecretKey(secretKey);
   }
 
   /// Pauses the video.
